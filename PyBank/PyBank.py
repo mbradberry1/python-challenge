@@ -3,7 +3,6 @@ import csv
 
 filepath = os.path.join('resources', 'budget_data.csv')
 
-df = []
 inc_month =[""]
 dec_month =[""]
 previous_val = 0
